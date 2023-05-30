@@ -1,2 +1,2 @@
 # kadasapo
-feature/1の記述
+feature/2の記述
